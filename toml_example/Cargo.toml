@@ -1,0 +1,6 @@
+[package]
+name = "toml_example"
+version = "0.1.0"
+authors = ["sunxia <>"]
+
+[dependencies]
